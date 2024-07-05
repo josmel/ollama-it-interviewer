@@ -67,5 +67,5 @@ ollama-it-interviewer/
 To run the interviewer, use:
 
 ```bash
-python src/interviewer.py
+python src/interviewer.py or python3 -m src.interviewer
 ```
