@@ -56,7 +56,7 @@ ollama-it-interviewer/
 
    - Enable **Speech-to-Text** and **Text-to-Speech** APIs.
    - Create a service account and download the JSON credentials file.
-   - Set the environment variable for credentials.
+   - Set the environment variable for credentials.(GOOGLE_APPLICATION_CREDENTIALS)
 
 5. **Edit `src/config.py`** for your credentials and Ollama model.
 
